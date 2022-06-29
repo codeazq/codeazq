@@ -1,7 +1,6 @@
 <h3 align="center">👋 Hi, I'm Oke </h3>
 
-[![Ebiyomare Oke](./assets/profile.gif)](https://ebiyomareoke.com/)
-
+ ### About Me
 I am very passionate about technology and entrepreneurship.
 I'm a problem-solver, my current weapon of choice is tech
 
@@ -14,7 +13,8 @@ I'm a problem-solver, my current weapon of choice is tech
 
 📫 Reach me asap: ebiyomarejonathan@gmail.com
 
-⚡ Fun fact: ...
+💎 Those who bring sunshine into the lives of others cannot keep it from themselves. James M. Barrie
+
 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
