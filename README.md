@@ -1,5 +1,7 @@
 <h3 align="center">👋 Hi, I'm Oke </h3>
 
+[![Ebiyomare Oke](./assets/profile.gif)](https://ebiyomareoke.com/)
+
 I am very passionate about technology and entrepreneurship.
 I'm a problem-solver, my current weapon of choice is tech
 
